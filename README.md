@@ -55,4 +55,3 @@ int main() {
 
 For each test case, it simply prints `2 * n`, the kilograms of **berries** needed to make `n` jars of jam.
 
-Let me know if you'd like a [visual diagram](f) of the process or [Python version](f) of the code.

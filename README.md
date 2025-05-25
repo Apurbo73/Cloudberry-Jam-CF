@@ -2,7 +2,7 @@
 
 ### 🔍 Problem Explanation:
 
-You're making jam using **cloudberries** and **sugar**. You need:
+We're making jam using **cloudberries** and **sugar**. We need:
 
 * **1 kg of berries** + **1 kg of sugar** to make jam.
 * But **25%** of the total jam **evaporates** during cooking.
